@@ -1,4 +1,3 @@
-```markdown
 # awesome-seu-tools
 
 收集并整理东南大学（SEU）师生常用的小工具与脚本，包含命令行脚本、Windows/Unix 工具、网页/自动化小程序等，方便分享与协作。
@@ -39,4 +38,3 @@ Topics（建议）：
 seu, southeast-university, tools, scripts, utilities
 
 欢迎贡献与建议！
-```
