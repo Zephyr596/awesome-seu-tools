@@ -36,6 +36,7 @@
 | 分类 | 工具 | 简介 | 维护者 | 入口 |
 | --- | --- | --- | --- | --- |
 | meta | awesome-seu-tools 工具索引 | 本仓库的定位、结构与维护方式说明，便于快速了解工具集。 | 社区维护 | [查看说明](tools/meta/awesome-seu-tools/README.md) |
+| meta | SEUCourseShare 课程共享计划 | 汇集各院系课程资料与复习经验的社区协作仓库导航。 | 社区维护 | [查看说明](tools/meta/seu-course-share/README.md) |
 | scripts | seuVisitor 校园访客预约助手 | 自动化辅助东南大学访客预约流程的命令行脚本集合。 | Zephyr596 / 社区维护 | [查看说明](tools/scripts/seu-visitor/README.md) |
 
 ### 如何登记新工具
