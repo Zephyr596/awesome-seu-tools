@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Stylised SEU emblem</title>
+  <desc id="desc">A circular emblem inspired by Southeast University colours with a triangle motif and SEU lettering.</desc>
+  <defs>
+    <linearGradient id="seuGradient" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#0a8a4b" />
+      <stop offset="100%" stop-color="#055f33" />
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="110" fill="url(#seuGradient)" stroke="#f7f2d7" stroke-width="12" />
+  <g fill="#f7f2d7">
+    <path d="M120 60 L55 165 H185 Z" opacity="0.9" />
+    <path d="M120 80 L75 155 H165 Z" fill="#0e4d2c" opacity="0.75" />
+  </g>
+  <circle cx="120" cy="120" r="34" fill="#f7f2d7" opacity="0.85" />
+  <text x="120" y="130" text-anchor="middle" font-family="'Arial Black', 'Source Han Sans', sans-serif" font-size="42" fill="#0d3b25" letter-spacing="4">SEU</text>
+</svg>
