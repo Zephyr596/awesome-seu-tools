@@ -4,8 +4,6 @@
   <img src="docs/assets/seu-logo.svg" alt="东南大学 SEU 灵感徽标" width="180" />
 </p>
 
-<p align="center"><em>以东南大学校徽为灵感的仓库标识，象征开放、协作与创新。</em></p>
-
 > 汇总东南大学（SEU）师生常用的小工具、脚本与自动化示例，方便快速查找与复用。
 
 ## 目录
