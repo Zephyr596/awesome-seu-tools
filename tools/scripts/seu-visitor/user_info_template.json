@@ -1,0 +1,17 @@
+{
+  "profiles": [
+    {
+      "name": "张三",
+      "phone": "13800000000",
+      "id_number": "320000000000000000",
+      "car_number": "苏A·00000",
+      "phone_teacher": "13900000000",
+      "id_department": "123456",
+      "department": "电子信息学院",
+      "id_teacher": "654321",
+      "name_teacher": "李老师",
+      "dormitory": "九龙湖校区 XXX 栋 XXX 室",
+      "card": "一卡通尾号 0000"
+    }
+  ]
+}

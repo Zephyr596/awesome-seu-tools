@@ -32,6 +32,7 @@
 | 分类 | 工具 | 简介 | 维护者 | 入口 |
 | --- | --- | --- | --- | --- |
 | meta | awesome-seu-tools 工具索引 | 本仓库的定位、结构与维护方式说明，便于快速了解工具集。 | 社区维护 | [查看说明](tools/meta/awesome-seu-tools/README.md) |
+| scripts | seuVisitor 校园访客预约助手 | 自动化辅助东南大学访客预约流程的命令行脚本集合。 | Zephyr596 / 社区维护 | [查看说明](tools/scripts/seu-visitor/README.md) |
 
 ### 如何登记新工具
 1. 在 `tools/` 下选择或创建合适的分类目录（如 `scripts/`、`web/`、`windows/`、`linux/`、`meta/` 等）。
